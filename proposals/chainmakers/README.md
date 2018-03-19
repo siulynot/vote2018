@@ -9,7 +9,7 @@
 
 ## NOTARY ZONES
 
-### North America Address
+### North America Address - Siu
 ### Public VOTE Address: 
 
 RGPido1EWcPWngDfkAcn4M4HXYt8avR4vs
@@ -23,7 +23,7 @@ HYnLMxBgxkrns4TC4pZmSE4vW4mCFg1VsDLf9NUHV3
 
 03f82c8c363d23076420a39904f9616d59c26a3d8dc7c51f67d8d3a94335431970
 
-### Europe Address
+### Europe Address - Jorian
 ### Public VOTE Address: 
 
 RSQUoSfM7R7SnatK6Udsb5t39movCpUKQE
